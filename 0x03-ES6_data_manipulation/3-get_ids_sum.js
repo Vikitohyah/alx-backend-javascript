@@ -1,5 +1,5 @@
 /**
- * A function that gets the sum of ids of a list of students. 
+ * Retrieves the sum of ids of a list of students.
  * @param {{
  *   id: Number,
  *   firstName: String,
